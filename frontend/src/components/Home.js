@@ -37,9 +37,7 @@ const Home = () => {
                             <button className='border bg-black text-white px-2 py-1 text-xl rounded-lg shadow-lg px-3  py-2 my-2'>Explore More</button>
                         </div>
                     </div>
-                    {/* <video className='' autoPlay loop muted>
-                    <source  src={craftvideo} type='video/mp4' />
-                </video>                 */}
+                    
                 </div>
             </div>
             <SwiperCom />
